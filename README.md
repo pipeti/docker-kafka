@@ -6,9 +6,6 @@ https://github.com/spotify/docker-kafka
 
 This repository provides everything you need to run Kafka in Docker.
 
-For convenience also contains a packaged proxy that can be used to get data from
-a legacy Kafka 7 cluster into a dockerized Kafka 8.
-
 Why?
 ---
 The main hurdle of running Kafka in Docker is that it depends on Zookeeper.
